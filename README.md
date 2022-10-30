@@ -23,7 +23,7 @@ Program to implement univariate Linear Regression to fit a straight line using l
 
 Developed by: Mr. ISHAQ HUSSAIN 
 
-RegisterNumber: 212221230040
+RegisterNumber: 212221040059
 
 
 ```
